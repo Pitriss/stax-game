@@ -21,6 +21,7 @@
 #ifndef STAX_H
 #define STAX_H
 
+#include <stdio.h>
 #include <allegro.h>
 #include <vector>
 #include <list>
